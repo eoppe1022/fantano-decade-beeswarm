@@ -1,5 +1,7 @@
 
 library(tidyverse)
+library(extrafont)
+library(ggbeeswarm)
 
 mydata <- read_csv("fantano top 200 decade.csv")
 
